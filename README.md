@@ -16,10 +16,10 @@ Original Faces vs. Reconstructed Faces:
 
 Linear interpolation between two face images:
 <div>
-	<img src='imgs/trans.jpg', width="100%">
+	<img src='imgs/trans.jpg', width="96%">
 </div>
 
 Vector arithmatic in latent space:
 <div>
-	<img src='imgs/vec_math.jpg', width="100%">
+	<img src='imgs/vec_math.jpg', width="96%">
 </div>
