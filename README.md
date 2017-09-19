@@ -10,8 +10,8 @@ Pretrained model available at https://drive.google.com/open?id=0B4y-iigc5IzcTlJf
 ## Results
 Original Faces vs. Reconstructed Faces:
 <div>
-	<img src='imgs/Epoch_28_data.jpg', width="50%">
-  <img src='imgs/Epoch_28_recon.jpg', width="50%">
+	<img src='imgs/Epoch_28_data.jpg', width="48%">
+  <img src='imgs/Epoch_28_recon.jpg', width="48%">
 </div>
 
 Linear interpolation between two face images:
