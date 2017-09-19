@@ -1,7 +1,7 @@
 # Variational Autoencoder for face image generation in PyTorch
 Variational Autoencoder for face image generation implemented with PyTorch, Trained over a combination of CelebA + FaceScrub + JAFFE datasets.
 
-Based on Deep Feature Consistent Variational Autoencoder (https://arxiv.org/abs/1610.00291)
+Based on Deep Feature Consistent Variational Autoencoder (https://arxiv.org/abs/1610.00291 | https://github.com/houxianxu/DFC-VAE)
 
 TODO: Add DFC-VAE implementation
 
