@@ -8,23 +8,18 @@ TODO: Add DFC-VAE implementation
 Pretrained model available at https://drive.google.com/open?id=0B4y-iigc5IzcTlJfYlJyaF9ndlU
 
 ## Results
-Original Faces:
+Original Faces vs. Reconstructed Faces:
 <div>
-	<img src='imgs/Epoch_28_data.jpg', width="40%">
-  <img src='imgs/Epoch_28_recon.jpg', width="40%">
-</div>
-
-Reconstructed Faces:
-<div>
-	<img src='imgs/Epoch_28_recon.jpg', width="40%">
+	<img src='imgs/Epoch_28_data.jpg', width="50%">
+  <img src='imgs/Epoch_28_recon.jpg', width="50%">
 </div>
 
 Linear interpolation between two face images:
 <div>
-	<img src='imgs/trans.jpg', width="40%">
+	<img src='imgs/trans.jpg', width="100%">
 </div>
 
 Vector arithmatic in latent space:
 <div>
-	<img src='imgs/vec_math.jpg', width="40%">
+	<img src='imgs/vec_math.jpg', width="100%">
 </div>
